@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif; }
+
+.container {
+  width: 80%;
+  margin: 10px auto;
+  display: block;
+  clear: both; }
+
+section, aside {
+  display: inline-block;
+  vertical-align: top; }
+
+section {
+  width: 70%; }
+  section article {
+    width: 100%;
+    padding: 20px;
+    background-color: blue;
+    color: white; }
+  section p {
+    margin: 2px;
+    color: white; }
+
+aside {
+  width: 29%; }
