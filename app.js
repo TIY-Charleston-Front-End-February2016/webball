@@ -27,6 +27,6 @@ var twitterClone = {
 
   },
   ajaxCall: function(method,url,data,id) {
-      
+
   }
 }
